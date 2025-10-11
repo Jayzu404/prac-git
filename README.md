@@ -11,13 +11,13 @@ dart run lib/main.dart
 
 LEGEND 
 
-(CoffeeShop) = Container and integration actions 
-(CoffeeMaker)	= Coffee-making process 
-(CashRegister) = Payment and transaction handling 
-(InventoryCounter) = Inventory management 
+(CoffeeShop) = Container and integration actions  
+(CoffeeMaker)	= Coffee-making process  
+(CashRegister) = Payment and transaction handling  
+(InventoryCounter) = Inventory management  
 
-[Team Members]  
-Member 1: Container & Integration, 
-Member 2: CoffeeMaker,  
-Member 3: CashRegister,  
+Team Members    
+Member 1: Container & Integration  
+Member 2: CoffeeMaker  
+Member 3: CashRegister  
 Member 4: InventoryCounter 
